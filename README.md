@@ -12,4 +12,4 @@
   - `git push origin master`
 * On GitHub, submit a pull request to this (the original) repo.
 
-#I DID IT TICHES!
+#This is Jacky. I finally able to push this bad boy.
