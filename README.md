@@ -10,4 +10,5 @@
   - `git add README.md`
   - `git commit -m 'add readme'`
   - `git push origin master`
-* On GitHub, submit a pull request to this (the original) repo.
+
+Treagan Birbal I did it!
